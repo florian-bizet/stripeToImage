@@ -6,6 +6,8 @@ It was made to convert image data found in old games files
 
 ## How to use :
 
+Put all of your images in a folder named input located in the same place as the executable file
+
 If all of your images share the same section count :
 
 ```
