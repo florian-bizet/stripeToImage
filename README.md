@@ -1,4 +1,4 @@
-# (WIP) stripeToImage
+# stripeToImage
 
 This program converts an image splitted in stripes into its full version.
 
