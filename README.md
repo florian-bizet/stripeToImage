@@ -10,6 +10,4 @@ It was made to convert image data found in old games files
 
 ## Output :
 
-wait for it
-
 ![Converted image](output.png)
